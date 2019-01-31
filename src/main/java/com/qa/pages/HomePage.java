@@ -7,4 +7,8 @@ public class HomePage {
 		System.out.println("Home Page");
 	}
 
+	public void login()
+	{
+		System.out.println("login page");
+	}
 }
