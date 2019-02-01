@@ -11,4 +11,9 @@ public class HomePage {
 	{
 		System.out.println("login page");
 	}
+	
+	public void register()
+	{
+		System.out.println("Registration page");
+	}
 }
